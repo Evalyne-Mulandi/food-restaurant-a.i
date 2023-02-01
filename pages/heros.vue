@@ -42,7 +42,7 @@
                   >
                     <span
                       ></span>
-                    Log in
+                    About us
                   </Nuxt-link>
                   
                   <Nuxt-link
@@ -51,7 +51,7 @@
                   >
                     <span
                       ></span>
-                    Log in
+                    Blog
                   </Nuxt-link>
                   
                 </div>
@@ -160,6 +160,7 @@
     </div>
   </div>
 </div>
+<div class="text-orange-600  flex justify-center items-center py-6  bg-black">Copyright &copy;2023 restaurant-ai </div>
 </main>
 
  
